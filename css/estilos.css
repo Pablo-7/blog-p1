@@ -37,3 +37,12 @@ p{
 	font-size: 14px;
 
 }
+
+#footer{
+	font-size: 30px;
+	color: #ffffff;
+	font-weight: 900;
+	text-align: center;
+	padding: 40px 5px 40px 5px;
+	background: #545454;
+}
