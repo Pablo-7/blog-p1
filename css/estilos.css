@@ -33,8 +33,19 @@ h2{
 	font-weight: 900;
 }
 
+
+
+
 p{
 	font-size: 14px;
+
+}
+
+
+#texto3{
+	color: #ffffff;
+	background: #000000;
+	padding: 5px;
 
 }
 
