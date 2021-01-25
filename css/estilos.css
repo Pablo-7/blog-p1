@@ -13,16 +13,19 @@ body {
 }
 
 #cabecera3{
-	background: blue;
+	background: #000000;
 	color: #ffffff;
 	font-size: 22;
-	font-weight: bold;
+	font-weight: 900;
 	padding: 10px;
 }
 
 h1{
 	font-size: 18px;
 	font-weight: 800;
+	background: blue;
+	color: #ffffff;
+	padding: 10px;
 }
 
 h2{
